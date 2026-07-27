@@ -16,9 +16,9 @@
 ### 📍 1주차 (2026.07.31)
 | 플랫폼 | 번호 | 문제 이름 | 링크 | 난이도 |
 | :---: | :---: | :--- | :---: | :---: |
-| SWEA | 1249 | 보급로 | [🔗 바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD) | D4 |
-| 백준 | 1197 | 최소 스패닝 트리 | [🔗 바로가기](https://www.acmicpc.net/problem/1197) | Gold 4 |
-| 프로그래머스 | 43162 | 네트워크 | [🔗 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | Level 3 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 
 ### 📍 2주차 (2026.08.03 ~ 2026.08.09)
 | 플랫폼 | 번호 | 문제 이름 | 링크 | 난이도 |
