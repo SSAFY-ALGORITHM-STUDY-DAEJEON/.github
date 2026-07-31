@@ -22,6 +22,7 @@
 
 ### 📍 2주차 (2026.08.03 ~ 2026.08.09)
 | 플랫폼 | 번호 | 문제 이름 | 링크 | 난이도 |
+| :---: | :---: | :--- | :---: | :---: |
 | SWEA | 4615 | 재미있는 오셀로 게임 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmA4uK8ygDFAXj&categoryId=AWQmA4uK8ygDFAXj&categoryType=CODE&problemTitle=4615&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | D3 |
 | SWEA | 4050 | 재관이의 대향할인 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIseXoKEUcDFAWN&categoryId=AWIseXoKEUcDFAWN&categoryType=CODE&problemTitle=4050&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | D4 |
 | SWEA | 4366 | 정식이의 은행업무 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWMeRLz6kC0DFAXd&categoryId=AWMeRLz6kC0DFAXd&categoryType=CODE&problemTitle=4366&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | D4 |
