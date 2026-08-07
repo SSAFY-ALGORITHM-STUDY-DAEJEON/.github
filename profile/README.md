@@ -20,12 +20,19 @@
 | SWEA | 5658 | 보물상자 비밀번호 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo&categoryId=AWXRUN9KfZ8DFAUo&categoryType=CODE&problemTitle=5658&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)  | D4 |
 | SWEA | 6109 | 추억의 2048게임 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWbrg9uabZsDFAWQ&categoryId=AWbrg9uabZsDFAWQ&categoryType=CODE&problemTitle=6109&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | D4 |
 
-### 📍 2주차 (2026.08.03 ~ 2026.08.09)
+### 📍 2주차 (2026.08.07)
 | 플랫폼 | 번호 | 문제 이름 | 링크 | 난이도 |
 | :---: | :---: | :--- | :---: | :---: |
 | SWEA | 4615 | 재미있는 오셀로 게임 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmA4uK8ygDFAXj&categoryId=AWQmA4uK8ygDFAXj&categoryType=CODE&problemTitle=4615&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | D3 |
 | SWEA | 4050 | 재관이의 대량할인 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIseXoKEUcDFAWN&categoryId=AWIseXoKEUcDFAWN&categoryType=CODE&problemTitle=4050&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | D4 |
 | SWEA | 4366 | 정식이의 은행업무 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWMeRLz6kC0DFAXd&categoryId=AWMeRLz6kC0DFAXd&categoryType=CODE&problemTitle=4366&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | D4 |
+
+### 📍 3주차 (2026.08.14)
+| 플랫폼 | 번호 | 문제 이름 | 링크 | 난이도 |
+| :---: | :---: | :--- | :---: | :---: |
+| SWEA | 5432 | 쇠막대기 자르기 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm&categoryId=AWVl47b6DGMDFAXm&categoryType=CODE&problemTitle=5432&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | D4 |
+| SWEA | 1767 | 프로세서 연결하기 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf&categoryId=AV4suNtaXFEDFAUf&categoryType=CODE&problemTitle=1767&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |  |
+| SWEA | 1949 | 등산로 조성 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq&categoryId=AV5PoOKKAPIDFAUq&categoryType=CODE&problemTitle=1949&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |  |
 
 ---
 
