@@ -34,6 +34,13 @@
 | SWEA | 1767 | 프로세서 연결하기 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf&categoryId=AV4suNtaXFEDFAUf&categoryType=CODE&problemTitle=1767&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |  |
 | SWEA | 1949 | 등산로 조성 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq&categoryId=AV5PoOKKAPIDFAUq&categoryType=CODE&problemTitle=1949&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |  |
 
+### 📍 4주차 (2026.08.21)
+| 플랫폼 | 번호 | 문제 이름 | 링크 | 난이도 |
+| :---: | :---: | :--- | :---: | :---: |
+| SWEA | 4615 | 재미있는 오셀로 게임 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmA4uK8ygDFAXj&categoryId=AWQmA4uK8ygDFAXj&categoryType=CODE&problemTitle=4615&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | D3 |
+| 정올 | 1681 | 해밀턴 순환회로 | [문제로 이동](https://jungol.co.kr/problem/1681) | 실버2 |
+| SWEA | 5644 | 무선 충전 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo&categoryId=AWXRDL1aeugDFAUo&categoryType=CODE&problemTitle=5644&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |  |
+
 ---
 
 ## 👨‍💻 스터디원 및 개인 저장소
