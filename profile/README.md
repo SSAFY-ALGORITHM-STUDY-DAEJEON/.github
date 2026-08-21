@@ -41,6 +41,13 @@
 | 정올 | 1681 | 해밀턴 순환회로 | [문제로 이동](https://jungol.co.kr/problem/1681) | 실버2 |
 | SWEA | 5644 | 무선 충전 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo&categoryId=AWXRDL1aeugDFAUo&categoryType=CODE&problemTitle=5644&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |  |
 
+### 📍 5주차 (2026.08.28)
+| 플랫폼 | 번호 | 문제 이름 | 링크 | 난이도 |
+| :---: | :---: | :--- | :---: | :---: |
+| SWEA | 1859 | 백만 장자 프로젝트 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc) | D2 |
+| SWEA | 7206 | 숫자게임 | [문제로 이동](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWlGyBQqaEgDFASG) | D5 |
+| SWEA | 5672 | 올해의 조련사 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRgX36gSIDFAUo) | D4 |
+
 ---
 
 ## 👨‍💻 스터디원 및 개인 저장소
