@@ -55,6 +55,13 @@
 | SWEA | 4014 | 활주로 건설 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH&categoryId=AWIeW7FakkUDFAVH&categoryType=CODE&problemTitle=%ED%99%9C%EC%A3%BC%EB%A1%9C+%EA%B1%B4%EC%84%A4&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |  |
 | SWEA | 1953 | 탈주범검거 | [문제로 이동](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq&categoryId=AV5PpLlKAQ4DFAUq&categoryType=CODE&problemTitle=1953&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) |  |
 
+### 📍 7주차 (2026.09.11)
+| 플랫폼 | 번호 | 문제 이름 | 링크 | 난이도 |
+| :---: | :---: | :--- | :---: | :---: |
+| 기출 |  | 면접 |  | A형 |
+| 기출 |  | 사과먹기 |  | A형 |
+| 기출 |  | 산악구조로봇 |  | A형 |
+
 ---
 
 ## 👨‍💻 스터디원 및 개인 저장소
