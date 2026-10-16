@@ -88,7 +88,7 @@
 | :---: | :---: | :--- | :---: | :---: |
 | 기출 |  | 다리만들기2 | [문제로 이동](https://loosie.tistory.com/262) | A형 |
 | 기출 |  | 색종이붙이기 | [문제로 이동](https://edder773.tistory.com/298) | A형 |
-| 기출 |  | 배열돌리기4 | [문제로 이동]([https://loosie.tistory.com/508](https://koguri.tistory.com/97)) | A형 |
+| 기출 |  | 배열돌리기4 | [문제로 이동]([https://loosie.tistory.com/508](https://koguri.tistory.com/97) | A형 |
 
 ---
 
