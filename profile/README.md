@@ -90,6 +90,13 @@
 | 기출 |  | 색종이붙이기 | [문제로 이동](https://edder773.tistory.com/298) | A형 |
 | 기출 |  | 배열돌리기4 | [문제로 이동](https://koguri.tistory.com/97) | A형 |
 
+### 📍 12주차 (2026.10.30)
+| 플랫폼 | 번호 | 문제 이름 | 링크 | 난이도 |
+| :---: | :---: | :--- | :---: | :---: |
+| 코드트리 |  | 식량보급 | [문제로 이동](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/commissariat/description) | 삼성코테 |
+| 코드트리 |  | 호수의 물결 | [문제로 이동](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/wave-of-lake/description) | 삼성코테 |
+| 코드트리 |  | 코디의 퍼즐 공방 | [문제로 이동](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/cody-puzzle-workshop/description) | 삼성코테 |
+
 ---
 
 ## 👨‍💻 스터디원 및 개인 저장소
