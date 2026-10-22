@@ -95,7 +95,7 @@
 | :---: | :---: | :--- | :---: | :---: |
 | 코드트리 |  | 수하물 컨베이어 벨트 | [문제로 이동](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/baggage-conveyor-belt/description) | 삼성코테 |
 | 코드트리 |  | 호수의 물결 | [문제로 이동](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/wave-of-lake/description) | 삼성코테 |
-| 코드트리 |  | 코디의 보 공방 | [문제로 이동](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/jewel-workshop/description) | 삼성코테 |
+| 코드트리 |  | 코디의 보석 공방 | [문제로 이동](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/jewel-workshop/description) | 삼성코테 |
 
 ---
 
