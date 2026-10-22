@@ -93,9 +93,9 @@
 ### 📍 12주차 (2026.10.30)
 | 플랫폼 | 번호 | 문제 이름 | 링크 | 난이도 |
 | :---: | :---: | :--- | :---: | :---: |
-| 코드트리 |  | 식량보급 | [문제로 이동](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/commissariat/description) | 삼성코테 |
+| 코드트리 |  | 수하물 컨베이어 벨트 | [문제로 이동](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/baggage-conveyor-belt/description) | 삼성코테 |
 | 코드트리 |  | 호수의 물결 | [문제로 이동](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/wave-of-lake/description) | 삼성코테 |
-| 코드트리 |  | 코디의 퍼즐 공방 | [문제로 이동](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/cody-puzzle-workshop/description) | 삼성코테 |
+| 코드트리 |  | 코디의 보 공방 | [문제로 이동](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/jewel-workshop/description) | 삼성코테 |
 
 ---
 
